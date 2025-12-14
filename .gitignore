@@ -9,7 +9,7 @@ __pycache__/
 # Data & models
 data/
 models/
-figures/*.json
+!figures/*.json
 
 # Jupyter
 .ipynb_checkpoints/
