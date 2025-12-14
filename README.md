@@ -46,6 +46,20 @@ Visualizations include:
 
 ---
 
+## 📊 Evaluation Metrics
+
+The model’s performance metrics are saved in `figures/metrics.json` for reproducibility.
+
+Accuracy: ~80%
+
+ROC‑AUC: ~0.82
+
+Churn Rate: ~26%
+
+These values confirm that the logistic regression model provides strong predictive power while remaining interpretable.
+
+---
+
 ## 💡 Business Recommendations
 - Offer loyalty discounts to month‑to‑month customers.
 - Provide onboarding support for new customers (short tenure).
