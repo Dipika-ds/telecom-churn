@@ -56,15 +56,21 @@ Visualizations include:
 
 ## 📂 Repository Structure
 
-''' 
-telecom_churn/
-│── data/                # Dataset (Telco Customer Churn CSV)
-│── notebooks/           # Jupyter notebook (Telecom_Churn.ipynb)
-│── figures/             # Plots and evaluation metrics
-│── models/              # Saved logistic regression model
-│── README.md            # Project documentation
-│── requirements.txt     # Python dependencies
-'''
+ 
+   telecom_churn/
+   
+   │── data/                # Dataset (Telco Customer Churn CSV)
+   
+   │── notebooks/           # Jupyter notebook (Telecom_Churn.ipynb)
+   
+   │── figures/             # Plots and evaluation metrics
+   
+   │── models/              # Saved logistic regression model
+   
+   │── README.md            # Project documentation
+   
+   │── requirements.txt     # Python dependencies
+
 
 
 ---
